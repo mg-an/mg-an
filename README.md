@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I work at the frontiers of data analysis, prediction, technology and finance
 
 <!--
 **milindgawde/milindgawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
