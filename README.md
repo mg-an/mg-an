@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I work at the frontiers of data analysis, prediction, technology and finance
-
+### 🔭 I’m currently working at the frontiers of big data, prediction, technology and finance
+### 🌱 I’m currently learning quantum computing
 <!--
 **milindgawde/milindgawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
