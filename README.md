@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working at the frontiers of big data, ML, pattern recognition, prediction, technology and finance.
+### 
 ### 📫 For interesting prospects you can reach me : a] my email -> milindnileshgawde@gmail.com b] linkedin : https://www.linkedin.com/in/milindgawde/
 <!--
 **milindgawde/milindgawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
