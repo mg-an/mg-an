@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I like working at the intersection of AI, finance, technology and currently learning quantum computing.
-### ⚡ I generally commit my past projects, practice and generic codes because some projects, algorithms and models are better kept private :)
+### ⚡ I love data modeling & simulations and would be more than happy to do the same for an NGO / a greater purpose.
 ### 📫 For interesting prospects / collaboration you can reach me : a] my email -> milindnileshgawde@gmail.com b] linkedin : https://www.linkedin.com/in/milindgawde/
 <!--
 **milindgawde/milindgawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
