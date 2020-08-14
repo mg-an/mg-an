@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I like working at the intersection of AI, quantitative investments, technology and currently learning quantum computing.
-### 😄 I love data modeling & simulations and would be more than happy to start with / contribute to an open source project from scratch.
+### 😄 I love data modeling & simulations and would be more than happy to start with / contribute to an open source project from scratch; just give me an idea 🤔
 ### 📫 For interesting prospects / collaboration you can reach me : a] my email -> milindnileshgawde@gmail.com b] linkedin : https://www.linkedin.com/in/milindgawde/
 <!--
 **milindgawde/milindgawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
