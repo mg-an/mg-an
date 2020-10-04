@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I like working at the intersection of AI, quantitative investments and next-gen technology.
+### 🔭 I like working at the intersection of machine intelligence, quantitative investments and next-gen technology.
 ### 😄 I love data modeling & simulations and would be more than happy to start with / contribute to an open source project from scratch; or write a research paper perhaps, just give me an idea 🙃
 ### 🌱 Always open for developing products for a noble cause :)
 ### 📫 For interesting prospects / collaboration you can reach me : a] my email -> milindnileshgawde@gmail.com b] linkedin : https://www.linkedin.com/in/milindgawde/
