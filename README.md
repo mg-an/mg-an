@@ -1,7 +1,5 @@
-### Hi there 👋
-### 🔭 Interests include working at the intersection of machine intelligence, generative DL models, quantitative investments and next-gen technology.
-### 😄🙃🌱
-### 📫 For interesting prospects / collaboration you can reach me : a] my email -> milindnileshgawde@gmail.com b] linkedin : https://www.linkedin.com/in/milindgawde/
+### 🔭 Interests include working at the intersection of machine intelligence, generative models, quantitative investments and next-gen technology.
+### https://linktr.ee/milindgawde
 <!--
 **milindgawde/milindgawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
