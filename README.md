@@ -1,5 +1,5 @@
-### 🔭 Interests include working at the intersection of machine intelligence, generative models, quantitative investments and next-gen technology.
-### https://linktr.ee/milindgawde
+### 🔭 Interests include working at the intersection of machine intelligence, generative models, quantitative investments and next-gen tech.
+### https://milindgawde.github.io/
 <!--
 **milindgawde/milindgawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
