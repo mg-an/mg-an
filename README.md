@@ -1,4 +1,4 @@
-### 🔭 Interests - intelligent complex systems - living / software; AGI, conscious software, longevity, reprogramming, quantitative research. Next-gen tech. Long innovation, long future.
+### 🔭 Interests - intelligent complex conscious systems; AGI, longevity, reprogramming, quantitative research.
 <!--
 **milindgawde/milindgawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
