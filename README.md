@@ -1,4 +1,4 @@
-### 🔭 Interests - intelligent complex conscious systems; AGI, longevity, reprogramming, quantitative research.
+### Interests - Scalable Complex Systems.
 <!--
 **milindgawde/milindgawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
